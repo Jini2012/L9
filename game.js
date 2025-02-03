@@ -1,0 +1,5 @@
+AFRAME.registerComponent('game-play', {
+
+   
+  
+});
